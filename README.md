@@ -3,7 +3,7 @@
 
 - 🎓 3rd Year B.Tech CSE Student 
 
-- 📙 I’m currently learning **React and Next.js...**
+- 📙 I’m currently learning **React and Node.js...**
 
 - 💎 Favourite Languages: **JavaScript, React, Python...**
   
