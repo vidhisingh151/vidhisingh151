@@ -3,13 +3,13 @@
 
 - 🎓 3rd Year B.Tech CSE Student 
 
-- 📘 I’m currently learning **React and Next.js...**
+- 📙 I’m currently learning **React and Next.js...**
 
 - 💎 Favourite Languages: **JavaScript, React, Python...**
   
 - 💼 LinkedIn: [www.linkedin.com/in/vidhisingh1](www.linkedin.com/in/vidhisingh1)
 
-- Twitter: [https://x.com/VidhiSinghRana1](https://x.com/VidhiSinghRana1)
+- 🐦 Twitter: [https://x.com/VidhiSinghRana1](https://x.com/VidhiSinghRana1)
 
 
 <h3 align="left">Connect with me:</h3>
