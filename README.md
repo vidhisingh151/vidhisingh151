@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidhi!</h1>
 <h3 align="center">A passionate Frontend Developer from India 💻 </h3>
 <br>
-
 - 🎓 3rd Year B.Tech CSE Student 
 
 - 📘 I’m currently learning **React and Next.js...**
