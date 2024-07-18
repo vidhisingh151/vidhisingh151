@@ -7,17 +7,17 @@
 
 - 📘 I’m currently learning **React and Next.js...**
 
-- 💼 LinkedIn: [www.linkedin.com/in/vidhisingh1](www.linkedin.com/in/vidhisingh1)
-
 - 💎 Favourite Languages: **JavaScript, React, Python...**
+  
+- 💼 LinkedIn: [www.linkedin.com/in/vidhisingh1](www.linkedin.com/in/vidhisingh1)
 
 - Twitter: [https://x.com/VidhiSinghRana1](https://x.com/VidhiSinghRana1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vidhisinghrana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidhisinghrana1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vidhisingh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhisingh1" height="30" width="40" /></a>
 <a href="https://instagram.com/vidhisinghrana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vidhisinghrana1" height="30" width="40" /></a>
+<a href="https://twitter.com/vidhisinghrana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidhisinghrana1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
