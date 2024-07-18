@@ -7,7 +7,7 @@
 
 - 💎 Favourite Languages: **JavaScript, React, Python...**
   
-- 💼 LinkedIn: [www.linkedin.com/in/vidhisingh1](www.linkedin.com/in/vidhisingh1)
+- 💼 LinkedIn: https://www.linkedin.com/in/vidhisingh1/
 
 - 🐦 Twitter: [https://x.com/VidhiSinghRana1](https://x.com/VidhiSinghRana1)
 
