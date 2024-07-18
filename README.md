@@ -12,7 +12,7 @@
 
 - 💼 LinkedIn: [www.linkedin.com/in/vidhisingh1](www.linkedin.com/in/vidhisingh1)
 
-- 📧 **vidhisinghrana24@gmail.com**
+
 
 - Twitter: [https://x.com/VidhiSinghRana1](https://x.com/VidhiSinghRana1)
 
