@@ -11,8 +11,6 @@
 
 - 💎 Favourite Languages: **JavaScript, React, Python...**
 
-- 📧 **vidhisinghrana24@gmail.com**
-
 - Twitter: [https://x.com/VidhiSinghRana1](https://x.com/VidhiSinghRana1)
 
 <h3 align="left">Connect with me:</h3>
